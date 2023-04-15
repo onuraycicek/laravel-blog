@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "laravel-vite",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "php artisan serve --port=5173",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
+    }
+}
